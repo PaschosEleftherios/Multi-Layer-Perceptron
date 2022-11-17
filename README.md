@@ -17,4 +17,7 @@ Training stops when the square error between two epochs is minimized(is under a 
 
 After the generalization ability of the network is computed with the DatasetTest.
 
+The image inside repository, shows with "+" symbol the points that perceptron categorized in the right team,
+and with "-" symbol the points in wrong team.
+
 For a brief explanation of the code, take a look on Multi-Layered-Perceptron.pdf
