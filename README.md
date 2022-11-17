@@ -1,4 +1,4 @@
-# Multi-Level-Perceptron
+# Multi-Layer-Perceptron
 Artificial Neural Network
 
 In this repository, is presented the code of a 2 and a 3 layer perceptron in files p1,p2 respectively.
