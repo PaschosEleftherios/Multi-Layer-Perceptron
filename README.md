@@ -14,7 +14,7 @@ Format of the Dataset is : x1 x2 category
 This function is being commented after first run so we can have the same two datasets for testing in every run.
 
 The network is being trained using the DatasetTrain and the backpropagation method with activation functions tanh or relu.
-As the categories of the network are for with values 0-1,we use sigmoid function for the exit level.
+As the categories of the network are 4 with values 0-1,we use sigmoid function for the exit level.
 Training stops when the square error between two epochs is minimized(is under a given threshold.)
 and square error is below a given value.
 
